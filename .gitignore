@@ -1,0 +1,8 @@
+venv/
+
+data/*.csv
+
+*.pkl
+*.joblib
+
+submission.csv
