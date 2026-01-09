@@ -126,13 +126,11 @@ Place the following files inside the data/ folder:
 ----
 
 ### 📁 Repository Structure
-.
-├── model.py
-├── original_code.py
-├── README.md
-├── .gitignore
-└── data/
-    └── README.md
+Repository Structure
+├── model.py              # Final trained model / inference logic
+├── README.md             # Project documentation
+└── .gitignore            # Git ignored files
+
 
 ### 🔮 Future Improvements
 - Incorporate sentence-level embeddings (e.g., SBERT / MiniLM)
