@@ -127,8 +127,11 @@ Place the following files inside the data/ folder:
 
 ### 📁 Repository Structure
 Repository Structure
+
 ├── model.py              # Final trained model / inference logic
+
 ├── README.md             # Project documentation
+
 └── .gitignore            # Git ignored files
 
 
